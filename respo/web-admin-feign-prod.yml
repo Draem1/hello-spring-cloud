@@ -9,7 +9,7 @@ spring:
       content-type: text/html
 
 serve:
-  port: 8769
+  port: 8764
 
 feign:
   hystrix:
